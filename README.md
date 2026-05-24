@@ -321,6 +321,5 @@ Size breakdown (assuming it decrypts successfully):
                         -------------------
     Total                       1701 bytes
 
+Tip: for machine-readable output, use --json.
 ```
-
-For scripting, use `--json` to get machine-readable output.
